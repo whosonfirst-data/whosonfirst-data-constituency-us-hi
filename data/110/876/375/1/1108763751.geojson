@@ -9,7 +9,7 @@
     "geom:bbox":"-157.78755,21.21041,-157.70572,21.331286",
     "geom:latitude":21.27697,
     "geom:longitude":-157.743513,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":34148475.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 18",
     "uscensus:sldlst":"018",
     "uscensus:statefp":"15",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688671
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486401,
     "wof:geomhash":"7e30958ea6b0d3d662df7e9844c920ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688671
+        }
+    ],
     "wof:id":1108763751,
     "wof:lastmodified":1481486401,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688671,
     "wof:repo":"whosonfirst-data-constituency-us-hi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

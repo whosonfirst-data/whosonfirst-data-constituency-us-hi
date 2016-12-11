@@ -9,7 +9,7 @@
     "geom:bbox":"-158.02964,21.24972,-157.96745,21.360405",
     "geom:latitude":21.317248,
     "geom:longitude":-157.991648,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":21329309.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 40",
     "uscensus:sldlst":"040",
     "uscensus:statefp":"15",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688671
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486409,
     "wof:geomhash":"6ea948bca8b2b1f4ac4c9a89ad5fc7a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688671
+        }
+    ],
     "wof:id":1108763801,
     "wof:lastmodified":1481486409,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688671,
     "wof:repo":"whosonfirst-data-constituency-us-hi",
     "wof:superseded_by":[],
     "wof:supersedes":[],

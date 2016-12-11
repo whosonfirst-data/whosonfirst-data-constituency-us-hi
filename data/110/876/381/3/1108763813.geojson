@@ -9,7 +9,7 @@
     "geom:bbox":"-158.34465,21.437547,-158.00884,21.663544",
     "geom:latitude":21.557601,
     "geom:longitude":-158.173742,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":164896391.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 45",
     "uscensus:sldlst":"045",
     "uscensus:statefp":"15",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688671
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486410,
     "wof:geomhash":"ba1831f07dd2ab1b7c6eb36dccd51d91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688671
+        }
+    ],
     "wof:id":1108763813,
     "wof:lastmodified":1481486410,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688671,
     "wof:repo":"whosonfirst-data-constituency-us-hi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
